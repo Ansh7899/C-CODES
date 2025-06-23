@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 using namespace std;
-
+// complexity O(n^2)
 int main()
 {
     vector<int>arr ;
